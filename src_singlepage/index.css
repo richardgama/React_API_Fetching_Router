@@ -14,7 +14,7 @@ code {
 
 /* ############################# */
 
-/* .box {
+.box {
   color: black;
   padding: 10px;
   align-items: center;
@@ -57,4 +57,4 @@ button{
   height: 1px;
   background: rgb(226, 226, 226);
   width: 50%;
-} */
+}
